@@ -1,0 +1,21 @@
+﻿{
+  "SpotCount": 100,
+  "ReservedSpotCount": 5,
+  "FreeMinutes": 10,
+  "VehicleTypes": [
+    {
+      "Code": "BIL",
+      "Name": "Bil",
+      "VehiclesPerSpot": 1,
+      "CanUseReservedSpots": true,
+      "RequiresPermitForReservedSpots": true
+    },
+    {
+      "Code": "MC",
+      "Name": "Motorcykel",
+      "VehiclesPerSpot": 2,
+      "CanUseReservedSpots": false,
+      "RequiresPermitForReservedSpots": false
+    }
+  ]
+}

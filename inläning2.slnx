@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="inläning2/inläning2.csproj" />
+  <Project Path="inläning2.Data/inläning2.Data.csproj" />
+</Solution>

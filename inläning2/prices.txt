@@ -1,0 +1,5 @@
+﻿# Pris per påbörjad timme i CZK.
+# Format: FORDONSKOD=PRIS
+# Allt efter # på en rad är en kommentar.
+BIL=20
+MC=10
